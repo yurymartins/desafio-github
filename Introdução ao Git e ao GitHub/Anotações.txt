@@ -1,0 +1,41 @@
+Curso Introdução ao Git e ao GitHub
+
+Benefícios:
+
+1 - Controle de versão
+2 - Armazenamento em nuvem
+3 - Trabalho em equipe
+4 - Melhorar o código
+5 - Reconhecimento
+
+Comandos do terminal do Git
+
+Windows (derivado do Shell)
+
+- cd
+- dir
+- mkdir
+- del/rmdir
+
+Unix (derivado do bash)
+
+- cd
+- ls
+- mkdir
+- rm -rf
+
+Atalho TAB - autocompletar
+
+Instalação do Git: https://git-scm.com/downloads
+
+
+Conceitos do Git:
+
+SHA1 - SHA: Secure Hash Algorithm (Algoritmo de Hash Seguro)
+Gera conjunto de caracteres identificador de 40 dígitos.
+
+Blob (binary large object): contém o conteúdo do arquivo (sha)
+Tree: Um objeto da árvore do Git (tree) cria a hierarquia entre arquivos em um repositório do Git. Você pode usar o objeto da árvore do Git para criar a relação entre diretórios e os arquivos que eles contêm.
+Commit: é o objeto que vai juntar tudo, dando sentido a alteração efetuada.
+
+
